@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutocompleteText</string>
+    <string-array name="arrMa">
+        <item>adhsjk</item>
+        <item>ajskds</item>
+        <item>bakjsd</item>
+        <item>jkshvf</item>
+        <item>biuzdz</item>
+        <item>wioejf</item>
+        <item>ehfrus</item>
+    </string-array>
+</resources>

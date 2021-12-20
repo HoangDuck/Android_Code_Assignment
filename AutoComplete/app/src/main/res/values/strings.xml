@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="arrTinh">
+        <item>tphcm</item>
+        <item>hanoi</item>
+        <item>haiphong</item>
+        <item>cantho</item>
+        <item>danang</item>
+        <item>binhduong</item>
+    </string-array>
+</resources>

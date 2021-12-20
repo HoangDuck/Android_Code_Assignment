@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/txtMuaXuan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/muaxuan"
+        android:textColor="#0E0D0D"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/txtMuaHe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/muahe"
+        android:textColor="#100F0F"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/txtMuaThu"
+        android:text="@string/muathu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0E0C0C"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/txtMuaDong"
+        android:text="@string/muadong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0C0C0C"
+        android:textSize="36sp" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuSearch</string>
+    <string-array name="arrTinh">
+        <item>Tphcm</item>
+        <item>Ha noi</item>
+        <item>Hai Phong</item>
+        <item>Da nang</item>
+        <item>Can tho</item>
+    </string-array>
+</resources>
